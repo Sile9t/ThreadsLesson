@@ -1,0 +1,14 @@
+E:\Projects\DotNet\ThreadsLesson\bin\Debug\net8.0\ThreadsLesson.exe
+E:\Projects\DotNet\ThreadsLesson\bin\Debug\net8.0\ThreadsLesson.deps.json
+E:\Projects\DotNet\ThreadsLesson\bin\Debug\net8.0\ThreadsLesson.runtimeconfig.json
+E:\Projects\DotNet\ThreadsLesson\bin\Debug\net8.0\ThreadsLesson.dll
+E:\Projects\DotNet\ThreadsLesson\bin\Debug\net8.0\ThreadsLesson.pdb
+E:\Projects\DotNet\ThreadsLesson\obj\Debug\net8.0\ThreadsLesson.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\DotNet\ThreadsLesson\obj\Debug\net8.0\ThreadsLesson.AssemblyInfoInputs.cache
+E:\Projects\DotNet\ThreadsLesson\obj\Debug\net8.0\ThreadsLesson.AssemblyInfo.cs
+E:\Projects\DotNet\ThreadsLesson\obj\Debug\net8.0\ThreadsLesson.csproj.CoreCompileInputs.cache
+E:\Projects\DotNet\ThreadsLesson\obj\Debug\net8.0\ThreadsLesson.dll
+E:\Projects\DotNet\ThreadsLesson\obj\Debug\net8.0\refint\ThreadsLesson.dll
+E:\Projects\DotNet\ThreadsLesson\obj\Debug\net8.0\ThreadsLesson.pdb
+E:\Projects\DotNet\ThreadsLesson\obj\Debug\net8.0\ThreadsLesson.genruntimeconfig.cache
+E:\Projects\DotNet\ThreadsLesson\obj\Debug\net8.0\ref\ThreadsLesson.dll
